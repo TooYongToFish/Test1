@@ -14,8 +14,15 @@
 
 @implementation ViewController
 
+- (void)hha{
+    
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
+    NSLog(@"123212312");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
